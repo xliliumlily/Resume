@@ -311,7 +311,7 @@ filter: drop-shadow(0px 0px 2px #72624d);
 .carousel-indicators button{
     width: 2.5rem  !important;
     height: 2rem !important;
-    background: url(../../img/02/star.svg)no-repeat !important;
+    background: url(../img/02/star.svg)no-repeat !important;
     background-size: 28px!important;
 }
 .btn-close{
